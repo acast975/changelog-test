@@ -15,9 +15,6 @@
 08/27/2015  12:14 PM             1,141 README.md
 08/27/2015  12:14 PM               131 requirements.txt
 08/27/2015  12:14 PM                13 runtime.txt
-08/28/2015  01:30 PM                 0 test.txt
+08/28/2015  02:37 PM                 0 test.txt
                9 File(s)          1,721 bytes
-               4 Dir(s)  97,533,378,560 bytes free
-skdksdl;gs
-sdlgj;LSGDS
-SdglSKGD
+               4 Dir(s)  97,299,165,184 bytes free
